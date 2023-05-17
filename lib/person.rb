@@ -15,6 +15,3 @@ class Person
         @job = job 
     end 
 end
-
-travis = Person.new 
-travis.name #=> "Travis"
